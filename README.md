@@ -5,7 +5,7 @@
 - SQLite database for fast and minimal database implementation
 
 #### Note
-- Some files were purposefully removed to protect from plagiarism
+- Some files were purposefully removed to discourage plagiarism
 - Mail akshit.ck@gmail.com if you are interested in knowing more about this project
 
 
