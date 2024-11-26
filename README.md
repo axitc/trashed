@@ -6,7 +6,7 @@
 
 #### Note
 - Some files were purposefully removed to discourage plagiarism
-- Mail akshit.ck@gmail.com if you are interested in knowing more about this project
+- Contact if you are interested in knowing more about this project
 
 
 Web interface screenshot:
